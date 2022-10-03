@@ -1,5 +1,7 @@
 Farmacia San Juan 
-sistema Web
+
+
+sistema Web Farmacia
 josue Erasmo Rodríguez Castellanos
 
 login Administrador(propietario Farmacia San Juan)
